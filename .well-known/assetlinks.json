@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wCowinVaccineAvailabilityFinder_18291395",
+      "sha256_cert_fingerprints": [
+        "1A:88:06:AF:A3:A1:C9:61:59:71:07:EA:0F:F6:0F:7C:4D:37:62:21:59:B1:FD:CC:9F:09:DC:32:38:19:75:7E"
+      ]
+    }
+  }
+]
